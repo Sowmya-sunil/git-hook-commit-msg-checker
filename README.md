@@ -1,2 +1,2 @@
 # git-hook-commit-msg-checker
-nm,.
+nm
