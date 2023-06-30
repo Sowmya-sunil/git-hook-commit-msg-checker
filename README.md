@@ -1,2 +1,2 @@
 # git-hook-commit-msg-checker
-check
+check invalid comiit
